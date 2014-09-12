@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>productify</name>
+	<displayName><![CDATA[Productify Module]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[This module makes it easy to import products from Productify.com]]></description>
+	<author><![CDATA[&lt;a href=&quot;http://productify.com&quot; target=&quot;_blank&quot;&gt;Productify.com&lt;/a&gt;]]></author>
+	<tab><![CDATA[other_modules]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall this module?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
